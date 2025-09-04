@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//ZOHO Corp \,Inc//Zoho Meeting//EN
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20250820T053000Z
+DTEND:20250820T073000Z
+DTSTAMP:20250820T055332Z
+ORGANIZER;CN=Soujanya:MAILTO:soujanya@thesmartbridge.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=FALSE;CN=Soujanya:MAILTO:pavithraangel44@gmail.com
+DESCRIPTION:\nJoin Link : \n\nhttps://meetinglab.zoho.in/meeting/register/join?registerKey=1109edfb45664c4858a2feef49870de04d09e734bd81725db2ecfec88df6a513&sessionId=1312006456&uname=pavithra+s\n\nNote : This link is unique to you\, it should not be shared with others.\n\n\nOnce you join the webinar\, you will be connected to audio using your computers microphone and speakers (VoIP).\n\n\nA headset is recommended.\n
+CLASS:PUBLIC
+URL:https://meetinglab.zoho.in/meeting/register/join?registerKey=1109edfb45664c4858a2feef49870de04d09e734bd81725db2ecfec88df6a513&sessionId=1312006456&uname=pavithra+s
+LOCATION:https://meetinglab.zoho.in/meeting/register/join?registerKey=1109edfb45664c4858a2feef49870de04d09e734bd81725db2ecfec88df6a513&sessionId=1312006456&uname=pavithra+s
+UID:1016165000001190037
+SUMMARY:NM Project Development Sessions
+PRIORITY:5
+CREATED:20250820T055332Z
+SEQUENCE:755669248
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;RELATED=START:-PT00H10M00S
+END:VALARM
+END:VEVENT
+END:VCALENDAR
